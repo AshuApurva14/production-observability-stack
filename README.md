@@ -7,7 +7,17 @@ This is a production grade observability stack bulit using prometheus, grafana, 
 🎯 WEEK 1 GOAL
 ---
 
-Build:
+You will learn:
+
+- What metrics look like?
+
+- How Prometheus scrapes?
+
+- Counters vs Gauges vs Histograms
+
+- RED method (Rate, Errors, Duration)
+
+We will Build:
 
 ```bash
 FastAPI App → Expose Metrics → Prometheus → Grafana Dashboard
